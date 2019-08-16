@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#18993f</color>
+    <color name="colorPrimaryDark">#10762f</color>
+    <color name="colorAccent">#0c4da2</color>
+    <color name="colorRipple">#88a5a9a7</color>
+    <color name="colorPrimaryDoubleDark">#0a5d23</color>
+
+    <color name="colorPrimarySOF">#1367d4</color>
+    <color name="colorPrimaryDarkSOF">#0c4da2</color>
+    <color name="colorAccentSOF">#18993f</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#02b902</color>
+    <color name="red">#e53935</color>
+    <color name="asset_blue">#00aff0</color>
+
+    <color name="spinnerBorderColor">#f1efef</color>
+
+    <color name="dp_enable_color">#000000</color>
+    <color name="dp_disable_text_color">#dcdada</color>
+    <color name="dp_hint_color">#a3a0a0</color>
+    <color name="colorCardTitleLabel">#000000</color>
+    <color name="approved">#4caf50</color>
+    <color name="waiting">#4caf50</color>
+    <color name="on_progress">#fdd835</color>
+    <color name="cancel">#512da8</color>
+    <color name="reject">#e53935</color>
+    <color name="dashboad_application_draft">#fdd835</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="gray">#dfdddd</color>
+    <color name="light_gray">#33caccce</color>
+    <color name="disable_fields_color">#f1eeee</color>
+    <color name="colorPrimaryTransparent">#4D18993f</color>
+
+    <color name="action_button_normal">@color/colorPrimary</color>
+    <color name="action_button_pressed">@color/colorPrimaryDark</color>
+    <color name="row_even">#dfdddd</color>
+    <color name="row_odd">@color/transparent</color>
+
+    <color name="grey_button_normal">#767373</color>
+    <color name="grey_button_pressed">#545252</color>
+    <color name="dashboad_application_pending">#8C7EBA</color>
+    <color name="dashboad_application_revised">#512da8</color>
+    <color name="indicator_color">#550c4da2</color>
+    <color name="dark_yellow">#b2b200</color>
+
+    <color name="brown">#8D6E63</color>
+
+    <color name = "cancelled" >#900C3F</color>
+    <color name = "converted" >#3498DB</color>
+
+
+
+
+
+</resources>
